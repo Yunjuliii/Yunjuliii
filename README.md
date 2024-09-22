@@ -32,17 +32,20 @@ me.say_hi()
 ![C++](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8)
 ![Matlab](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=mathworks&logoColor=white&color=6aa6f8)
 
-**Frameworks & Libraries:**
+**Frameworks & Tools:**
 
 ![ROS](https://img.shields.io/badge/Framework-ROS-informational?style=flat&logo=ros&logoColor=white&color=6aa6f8)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=6aa6f8)
 ![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)
-
-**Tools:**
-
-![Ubuntu](https://img.shields.io/badge/Tools-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
 ![Simulink](https://img.shields.io/badge/Tools-Simulink-informational?style=flat&logo=mathworks&logoColor=white&color=6aa6f8)
-![VS Code](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![Ubuntu](https://img.shields.io/badge/Tools-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
+
+**Robotics & Control Systems:**
+
+![Control Theory](https://img.shields.io/badge/Expertise-Control_Theory-informational?style=flat&color=6aa6f8)
+![Robotics](https://img.shields.io/badge/Expertise-Robotics-informational?style=flat&color=6aa6f8)
+![Motion Planning](https://img.shields.io/badge/Expertise-Motion_Planning-informational?style=flat&color=6aa6f8)
+![Sensor Fusion](https://img.shields.io/badge/Expertise-Sensor_Fusion-informational?style=flat&color=6aa6f8)
 
 **Design Software:**
 
@@ -55,10 +58,6 @@ me.say_hi()
 ![STM32](https://img.shields.io/badge/Hardware-STM32-informational?style=flat&logo=stm32&logoColor=white&color=6aa6f8)
 ![MAX78000](https://img.shields.io/badge/Hardware-MAX78000-informational?style=flat&logo=arduino&logoColor=white&color=6aa6f8)
 
-**Languages:**
-
-![English](https://img.shields.io/badge/Language-English-informational?style=flat&color=6aa6f8)
-![Chinese](https://img.shields.io/badge/Language-Chinese-informational?style=flat&color=6aa6f8)
 
 
 <!-- ## &#x1f4c8; GitHub Stats
