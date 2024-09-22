@@ -26,18 +26,19 @@ me.say_hi()
 **National University of Defense Technology**  
 *Bachelor of Automation*  
 2019 - 2023  
-![UAV](https://img.shields.io/badge/UAV-Drone-informational?style=flat&logo=drone&logoColor=white&color=6aa6f8)  
+![UAV](https://img.shields.io/badge/-UAV-informational?style=flat&logo=drone&logoColor=white&color=6aa6f8)  
 - Minors: UAV  
-- Coursework: Dynamic Systems and Control, Flight Control, Robotics 🤖, ROS, Artificial Intelligence, PCB Design, Mechanical Design, Embedded Systems
+- Coursework: Dynamic Systems and Control, Flight Control, Robotics ![Robot](https://img.shields.io/badge/-Robot-informational?style=flat&logo=robot&logoColor=white&color=6aa6f8), ROS, Artificial Intelligence, PCB Design, Mechanical Design, Embedded Systems
 
 **EIT Digital Master School - Autonomous System**  
 *Joint Degree of University of Trento and Aalto University*  
 2023 - Present  
-![Robotics](https://img.shields.io/badge/Robotics-Robotics-informational?style=flat&logo=robot&logoColor=white&color=6aa6f8)  
+![Robotics](https://img.shields.io/badge/-Robotics-informational?style=flat&logo=robot&logoColor=white&color=6aa6f8)  
 - *Master of Robotics and Artificial Intelligence*  
 - GPA: 27.29/30  
 - EIT Digital Scholarship Holder  
 - Coursework: Robot Perception and Action, Machine Learning, Modelling and Simulation of Mechatronics Systems, Internet of Things, Computer Vision, Optimal Control, Sensor Fusion
+
 
 
 
