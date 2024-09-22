@@ -25,35 +25,41 @@ me.say_hi()
 
 ## 🔧 Technologies & Tools
 
-**Cloud Services:**
-
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![Bedrock](https://img.shields.io/badge/AI-Bedrock-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![SageMaker](https://img.shields.io/badge/ML-SageMaker-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
-![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
-![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
-![Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=aws-lambda&logoColor=white&color=6aa6f8)
-![ECS Fargate](https://img.shields.io/badge/Container-ECS_Fargate-informational?style=flat&logo=amazon-ecs&logoColor=white&color=6aa6f8)
-![SQS](https://img.shields.io/badge/Queue-SQS-informational?style=flat&logo=amazon-sqs&logoColor=white&color=6aa6f8)
-![SNS](https://img.shields.io/badge/Pub/Sub-SNS-informational?style=flat&logo=amazon-sns&logoColor=white&color=6aa6f8)
-![S3](https://img.shields.io/badge/Storage-S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=6aa6f8)
-![IAM](https://img.shields.io/badge/Security-IAM-informational?style=flat&logo=amazon-iam&logoColor=white&color=6aa6f8)
-![VPC](https://img.shields.io/badge/Network-VPC-informational?style=flat&logo=amazon-vpc&logoColor=white&color=6aa6f8)
-![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
-![X-Ray](https://img.shields.io/badge/Tracing-X--Ray-informational?style=flat&logo=amazon-xray&logoColor=white&color=6aa6f8)
-
 **Programming Languages:**
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![C](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
+![C++](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8)
+![Matlab](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=mathworks&logoColor=white&color=6aa6f8)
 
+**Frameworks & Libraries:**
 
-**Tools and Services:**
+![ROS](https://img.shields.io/badge/Framework-ROS-informational?style=flat&logo=ros&logoColor=white&color=6aa6f8)
+![PyTorch](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=6aa6f8)
+![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)
 
-![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+**Tools:**
+
+![Ubuntu](https://img.shields.io/badge/Tools-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
+![Simulink](https://img.shields.io/badge/Tools-Simulink-informational?style=flat&logo=mathworks&logoColor=white&color=6aa6f8)
+![VS Code](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+
+**Design Software:**
+
+![SolidWorks](https://img.shields.io/badge/Design-SolidWorks-informational?style=flat&logo=solidworks&logoColor=white&color=6aa6f8)
+![AutoCAD](https://img.shields.io/badge/Design-AutoCAD-informational?style=flat&logo=autodesk&logoColor=white&color=6aa6f8)
+
+**Hardware:**
+
+![Arduino](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=6aa6f8)
+![STM32](https://img.shields.io/badge/Hardware-STM32-informational?style=flat&logo=stm32&logoColor=white&color=6aa6f8)
+![MAX78000](https://img.shields.io/badge/Hardware-MAX78000-informational?style=flat&logo=arduino&logoColor=white&color=6aa6f8)
+
+**Languages:**
+
+![English](https://img.shields.io/badge/Language-English-informational?style=flat&color=6aa6f8)
+![Chinese](https://img.shields.io/badge/Language-Chinese-informational?style=flat&color=6aa6f8)
+
 
 <!-- ## &#x1f4c8; GitHub Stats
 
