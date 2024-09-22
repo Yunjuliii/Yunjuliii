@@ -29,7 +29,7 @@ me.say_hi()
 - Minors: UAV  
 - Coursework: Dynamic Systems and Control, Flight Control, Robotics  ROS, Artificial Intelligence, PCB Design, Mechanical Design, Embedded Systems
 
-**EIT Digital Master School - Autonomous System**  
+**European Institute of Innovation and Technology Digital Master School - Autonomous System**  
 *Joint Degree of University of Trento and Aalto University*  
 2023 - Present  
 
