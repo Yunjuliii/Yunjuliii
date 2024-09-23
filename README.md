@@ -21,21 +21,6 @@ me = RoboticsEngineer()
 me.say_hi()
 ```
 
-## 🎓 Education
-
-**National University of Defense Technology**  
-*Bachelor of Automation*  
-2019 - 2023  
-- Minors: UAV  
-- Coursework: Dynamic Systems and Control, Flight Control, Robotics  ROS, Artificial Intelligence, PCB Design, Mechanical Design, Embedded Systems
-
-**European Institute of Innovation and Technology Digital Master School - Autonomous System**  
-*Joint Degree of University of Trento and Aalto University*  
-2023 - Present  
-
-
-- *Master of Robotics and Artificial Intelligence*  
-- Coursework: Robot Perception and Action, Machine Learning, Modelling and Simulation of Mechatronics Systems, Internet of Things, Computer Vision, Optimal Control, Sensor Fusion
 
 
 
