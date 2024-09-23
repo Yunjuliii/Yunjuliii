@@ -35,8 +35,6 @@ me.say_hi()
 
 
 - *Master of Robotics and Artificial Intelligence*  
-- GPA: 27.29/30  
-- EIT Digital Scholarship Holder  
 - Coursework: Robot Perception and Action, Machine Learning, Modelling and Simulation of Mechatronics Systems, Internet of Things, Computer Vision, Optimal Control, Sensor Fusion
 
 
